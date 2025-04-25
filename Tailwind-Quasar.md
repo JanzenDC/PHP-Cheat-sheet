@@ -14,7 +14,7 @@ quasar create my-tailwind-project
 
 ## Step 2: Install Tailwind CSS and Dependencies
 ```bash
-npm install -D tailwindcss postcss autoprefixer
+npm install -D tailwindcss@3
 # or
 yarn add -D tailwindcss postcss autoprefixer
 ```
